@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312961694552",
+    "firebase_url": "https://igov-ba183.firebaseio.com",
+    "project_id": "igov-ba183",
+    "storage_bucket": "igov-ba183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312961694552:android:198f39272ecb19e8",
+        "android_client_info": {
+          "package_name": "com.shivam.igov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312961694552-eibqdf2ipfsqlfrb1f9k4qsnqdtgbpdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.igov",
+            "certificate_hash": "7e995bc8cbea79e868feefaf57cf06b6927f9a9e"
+          }
+        },
+        {
+          "client_id": "312961694552-6cj6imiobtqe27knd9ellahh6fd1pj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDcLUB2ckAwVG_X3ESXDUjURYlI8AVEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312961694552-6cj6imiobtqe27knd9ellahh6fd1pj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
