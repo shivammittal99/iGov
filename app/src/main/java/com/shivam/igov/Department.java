@@ -1,19 +1,23 @@
 package com.shivam.igov;
 
 public class Department {
-    private int thumbnail;
+    private String image_src;
     private String department;
 
     public Department() {
     }
 
-    public Department(int thumbnail, String department) {
-        this.thumbnail = thumbnail;
+    public Department(String image_src, String department) {
+        this.image_src = image_src;
         this.department = department;
     }
 
-    public int getThumbnail() {
-        return thumbnail;
+    public String getImage_src() {
+        return image_src;
+    }
+
+    public void setImage_src(String image_src) {
+        this.image_src = image_src;
     }
 
     public String getDepartment() {
@@ -22,9 +26,5 @@ public class Department {
 
     public void setDepartment(String department) {
         this.department = department;
-    }
-
-    public void setThumbnail(int thumbnail) {
-        this.thumbnail = thumbnail;
     }
 }
